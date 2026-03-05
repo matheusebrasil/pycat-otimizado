@@ -19,5 +19,14 @@ Além disso, a ferramenta conta com:
 
 ### 1. Painel da Linha de Comando (CLI)
 Para visualizar as opções e o painel customizado:
-```bash
+````bash
 python cat.py -h
+````
+---
+
+## 🛠️ Stacks e Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terminal](https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
